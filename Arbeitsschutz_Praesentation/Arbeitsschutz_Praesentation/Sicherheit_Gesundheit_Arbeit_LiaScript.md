@@ -19,19 +19,6 @@ Themenfeld 1: Sicherheit und Gesundheitsschutz
 Gruppen-Input: [Name 1] · [Name 2] · [Name 3]
 Master Lehramt an berufsbildenden Schulen · Otto-von-Guericke-Universität Magdeburg
 
-<!--
-MODERATIONSHINWEIS (nicht sichtbar in der Präsentation)
-Zeitplan Input (70 Min.):
-  0  Einstieg und Orientierung ............ 6 Min.
-  1  Wandel der Arbeitswelt ............... 10 Min.
-  2  Arbeitsschutz: Definition/ganzheitlich 12 Min.
-  3  Duales System / Akteure .............. 10 Min.
-  4  Rechtliche Grundlagen ................ 18 Min.
-  5  Institutionen, betriebliche Akteure .. 10 Min.
-  6  Zusammenfassung und Überleitung ...... 4 Min.
-Danach: Aktivierung (Fallstudie) 20 Min.
-Plenum: 2 Mitstudierende (ET / Prozesstechnik) und Dozent. Alle Quizze sind im Plenum mündlich oder per Klick lösbar.
--->
 
 ## Ablauf und Zeitplan
 
@@ -51,7 +38,6 @@ Plenum: 2 Mitstudierende (ET / Prozesstechnik) und Dozent. Alle Quizze sind im P
 
 ## Einstieg: Bildimpuls
 
-<!-- 3 Min. Methode: Bildimpuls + Think-Pair-Share (Einzeln 1 Min. -> Austausch 1 Min. -> Plenum 1 Min.). Antworten auf Flipchart/Board sammeln, am Ende (Block 6) wieder aufgreifen. -->
 
 ![Universalprüfmaschine ZwickRoell Z600 mit Steuerrechner und Handbediengerät](images/CTA198558_TVM1406142.png)
 <!-- style="max-height: 55vh;" -->
@@ -68,7 +54,6 @@ Quelle: ZwickRoell, Produktabbildung Universalprüfmaschine Z600 (F max = 600 kN
 
 ## Einstieg: Vorwissen abfragen
 
-<!-- 3 Min. Kurzquiz zur Standortbestimmung. Ergebnis kurz kommentieren, ohne Auflösung zu vertiefen. -->
 
 **Wissensstand-Check 1:** Wer ist nach dem Arbeitsschutzgesetz in erster Linie für Sicherheit und Gesundheit der Beschäftigten verantwortlich?
 
@@ -109,7 +94,6 @@ Am Ende des Inputs können Sie ...
 
 ## Block 1: Wandel der Arbeitswelt
 
-<!-- 10 Min. Block 1. Hinweis: Alle Inhalte stammen aus DGUV 251-001. -->
 
 Trends und Strukturwandel in Verwaltung, Wirtschaft und Gesellschaft
 
@@ -220,7 +204,6 @@ Quelle: DGUV 251-001
 
 ## Diskussion: Trends im eigenen Labor
 
-<!-- 3 Min. Geleitete Diskussion. Moderationsfragen: (1) Welcher Trend verändert Ihr späteres Berufsschullabor am stärksten? (2) Welche neue Gefährdung entsteht dadurch? Beispiele sammeln: Fernzugriff/Remote-Steuerung an Prüfständen, Virtualisierung, Sensorik, Cobots. -->
 
 **💬 Austausch (3 Min.)**
 
@@ -262,7 +245,6 @@ Quelle: DGUV 251-001, S. 10
 
 ## Wissensstand-Check 3: Handlungsansätze
 
-<!-- 2 Min. -->
 
 Ein Betrieb ergreift Arbeitsschutzmaßnahmen erst **nach** einem Unfall und gestaltet nur einzelne Maschinen um. Welche Handlungsansätze liegen vor?
 
@@ -283,7 +265,6 @@ Welcher Ansatz passt zu **„Arbeitsschutz als untrennbarer Bestandteil betriebl
 
 ## Block 2: Arbeitsschutz – eine Definition
 
-<!-- 12 Min. Block 2. Definition einprägen, dann ganzheitliches Verständnis (Bilder). -->
 
 > **Arbeitsschutz** ist Bewahrung von **Leben und Gesundheit** in Verbindung mit der Arbeit.
 
@@ -339,7 +320,6 @@ Ganzheitliches Verständnis = **Schutzaspekt + Förderungsaspekt + Selbstverantw
 
 ## Wissensstand-Check 4: Leitfragen
 
-<!-- 2 Min. -->
 
 Welche Leitfrage gehört zum **Förderungsaspekt**?
 
@@ -385,7 +365,6 @@ Quelle: DGUV 251-001, S. 10
 
 ## Diskussion: T-O-P an der Prüfmaschine
 
-<!-- 4 Min. Zurück zum Bildimpuls. Gruppe nennt je Dimension 1-2 Maßnahmen. Erwartbar: T = Not-Halt, Schutzeinrichtung, Warnzeichen; O = Zugangsregelung, Prüfablauf, Gruppengröße; P = Unterweisung, Gehörschutz, Qualifikation. Dozent kann Gefährdungsbeurteilung als Stichwort ergänzen (eigenes Thema im Seminar). -->
 
 ![Prüfmaschine Z600](images/CTA198558_TVM1406142.png)
 <!-- style="max-height: 38vh;" -->
@@ -402,7 +381,6 @@ Nennen Sie je Dimension **ein bis zwei Maßnahmen**, mit denen die Prüfmaschine
 
 ## Block 3: Duales Arbeitsschutzsystem
 
-<!-- 10 Min. Block 3. Zentral: Wer macht was? Staat vs. Selbstverwaltung vs. private Normgeber. -->
 
 ![Arbeitssicherheit: Staat, private Normgeber, Selbstverwaltung](images/4db711eca54b2c4b9d6393f07cbdb18406bc3081.png)
 <!-- style="max-height: 58vh;" -->
@@ -455,13 +433,11 @@ Quelle: [Quelle der Abbildung bitte ergänzen; Folie in der Vorjahrespräsentati
 - Selbstverwaltung: SGB VII, Unfallverhütungsvorschriften (UVV)
 - darunter: „allgemein anerkannte Regeln" (CEN/CENELEC-, DIN-Normen, VDE-Bestimmungen, TRGS) und gesicherte arbeitswissenschaftliche Erkenntnisse (z. B. MAK-Werte, VDI-Richtlinien)
 
-<!-- Hinweis für Dozent/Prüfung: Die Abbildung nennt noch EG-Vertrag Art. 95 und Art. 137; nach dem Lissabon-Vertrag entsprechen diese Art. 114 und Art. 153 AEUV. Bitte vor Verwendung nochmals gegenprüfen. -->
 
 ---
 
 ## Wissensstand-Check 5: Wer macht was?
 
-<!-- 3 Min. -->
 
 Wer erlässt **Unfallverhütungsvorschriften**?
 
@@ -485,7 +461,6 @@ Staatliche Gewerbeaufsicht überwacht staatliches Recht, die Technischen Aufsich
 
 ## Block 4: Gesetze, Verordnungen, Vorschriften, Regeln und Normen
 
-<!-- 18 Min. Block 4. Schwerpunkt der Sitzung: Verbindlichkeit ordnen. Ablauf: EU -> Gesetz/VO -> Regeln -> Normen -> Pyramide -> Gesetzgebung -> Liste -> Quiz -> Diskussion. -->
 
 Leitfrage: **Was ist wie verbindlich?**
 
@@ -613,13 +588,11 @@ Weitere: Arbeitssicherheitsgesetz (ASiG), DGUV Vorschrift 2, Bundesimmissionssch
 
 Quelle: BMAS, Was ist Arbeitsschutz? · vdf Hochschulverlag AG an der ETH Zürich
 
-<!-- Aktualitätshinweis (nicht aus der Vorjahresquelle): Die Vorjahresfolie nennt noch Röntgenverordnung (RöV) und Gerätesicherheitsgesetz (GSG). Beide sind inzwischen abgelöst (Strahlenschutzgesetz bzw. Produktsicherheitsgesetz). Vor dem Vortrag bitte kurz prüfen und ggf. mündlich als Hinweis ergänzen. -->
 
 ---
 
 ## Wissensstand-Check 6: Verbindlichkeit ordnen
 
-<!-- 4 Min. -->
 
 Ordnen Sie zu:
 
@@ -650,7 +623,6 @@ Welche Aussagen zu **Normen** sind richtig? (Mehrfachauswahl)
 
 ## Diskussion: Vermutungswirkung
 
-<!-- 3 Min. Fragen anleiten; Dozent kann Bezug zu "Stand der Technik" herstellen. Mögliche Ergebnisse: Entlastung bei Einhaltung, Begründungspflicht bei Abweichung, Innovationsoffenheit. -->
 
 **💬 Austausch (3 Min.)**
 
@@ -663,7 +635,6 @@ Technische Regeln sind **nicht rechtsverbindlich**, aber es gilt die **Vermutung
 
 ## Block 5: Institutionen des Arbeitsschutzes
 
-<!-- 10 Min. Block 5. Erst Institutionen, dann betriebliche Ebene (Organigramm), dann Sifa und Betriebsarzt. -->
 
 ![Institutionen des Arbeitsschutzes: Bundesministerien, Bundesanstalten, Berufsgenossenschaften](images/c33f7df87dd3e07abb0646c40336d2f11396ddf8.png)
 <!-- style="max-height: 50vh;" -->
@@ -750,7 +721,6 @@ Quelle: Huck; Mayer (2020), auf Haufe.de
 
 ## Wissensstand-Check 7: Welche Rolle?
 
-<!-- 2 Min. -->
 
 Ein Produktionsbetrieb führt eine neue Maschine ein. Wer **berät den Arbeitgeber in allen Fragen des Arbeitsschutzes**?
 
@@ -769,7 +739,6 @@ Wer ist für die **arbeitsmedizinische Vorsorge** zuständig?
 
 ## Block 6: Zusammenfassung
 
-<!-- 4 Min. Rückgriff auf Einstiegsbild und Flipchart-Antworten: Was würden wir jetzt anders/ergänzen? -->
 
 ![Prüfmaschine Z600](images/CTA198558_TVM1406142.png)
 <!-- style="max-height: 28vh;" -->
@@ -796,7 +765,6 @@ Jetzt wenden Sie das Gelernte an.
 
 ## Aktivierung: Methode Fallstudie
 
-<!-- Methodenwahl laut Arbeitsblatt "Unterrichtsmethoden" (Dr. K. Petzold-Rudolph, 11.11.2026). Begründung: Handlungsorientiert, realer Fall, Zuordnung von Wissen zu Handlungssituation, passt zu Lernziel "anwenden" und zur Zweierkonstellation (Partnerarbeit mit Rollen + Disputation mit Dozent). -->
 
 **Warum Fallstudie?**
 
@@ -833,7 +801,6 @@ Das Zentrum hat Arbeitgeber (Geschäftsführung), Betriebsrat, eine Fachkraft f�
 
 ## Fallstudie: Arbeitsauftrag (Phase 2, 8 Min.)
 
-<!-- Partner A = "Recht/Normen" (z. B. Elektrotechnik-Hintergrund: Maschinen-/Elektrosicherheit), Partner B = "Akteure/Gestaltung" (z. B. Prozesstechnik-Hintergrund). 4 Min. Einzelarbeit, 4 Min. Abgleich. Dozent beobachtet, gibt nur Rückfragen. -->
 
 **Rolle A: Rechtsquellen**
 
@@ -853,7 +820,6 @@ Das Zentrum hat Arbeitgeber (Geschäftsführung), Betriebsrat, eine Fachkraft f�
 
 ## Fallstudie: Vorstellung und Disputation (Phase 3, 6 Min.)
 
-<!-- 3 Min. Vorstellung (je 1,5 Min.), 3 Min. Disputation: Dozent in Rolle "Geschäftsführer" und stellt kritische Rückfragen. -->
 
 1. Beide stellen ihr Ergebnis vor (je **ca. 1,5 Min.**).
 2. **Disputation (ca. 3 Min.):** Der Dozent ist die **Geschäftsführung** und fragt kritisch nach:
@@ -865,7 +831,6 @@ Das Zentrum hat Arbeitgeber (Geschäftsführung), Betriebsrat, eine Fachkraft f�
 
 ## Fallstudie: Auswertung (Phase 4, 4 Min.)
 
-<!-- 2 Min. Abgleich mit Erwartungshorizont (nächste Folie), 2 Min. Reflexion zur Methode und KI-Bezug (Seminarziel: KI-Werkzeuge reflektiert einsetzen). -->
 
 **Abgleich mit dem Erwartungshorizont** (nächste Folie) und kurze **Reflexion**:
 
@@ -877,7 +842,6 @@ Das Zentrum hat Arbeitgeber (Geschäftsführung), Betriebsrat, eine Fachkraft f�
 
 ## Erwartungshorizont (Moderationsfolie)
 
-<!-- Nach der Aktivierung einblenden. Mit * markierte Punkte sind Ergänzungen, die nicht aus der Vorjahresquelle stammen. Bitte vor der Sitzung inhaltlich prüfen. -->
 
 **Rechtsquellen (Beispiele)**
 
@@ -916,7 +880,6 @@ Offene Fragen? Diskussion?
 
 ## Quellenverzeichnis
 
-<!-- Hinweis: Die Vorjahrespräsentation (Dozent M. Robra, 09.11.2020) nennt teils nur Kurzbelege. Ich habe sie unverändert übernommen und nur dort Ergänzungen (o. J.) gesetzt, wo keine Jahreszahl angegeben war. Bitte vor Abgabe im Studiennachweis auf Vollständigkeit (URL, Abrufdatum) prüfen. -->
 
 **Quellen aus der Vorjahrespräsentation (Folienbelege)**
 
